@@ -35,6 +35,10 @@ Os dados extraídos são armazenados em um **DataFrame** com o auxílio do **Pan
 4. **Ano predominante**:
    - A maioria dos livros foi publicada no ano de **2011**.
 
+### Relatório Final
+
+Ao final do arquivo de análise, um **relatório** é gerado contendo um resumo das informações extraídas do scraping. Esse relatório inclui os principais resultados sobre autores, editoras, preços e anos de publicação dos livros.
+
 ## Bibliotecas Utilizadas
 
 - **Pandas**: Utilizado para criar e manipular a base de dados em formato de DataFrame.
@@ -49,3 +53,5 @@ Sinta-se à vontade para contribuir com este projeto. Sugestões e melhorias sã
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
