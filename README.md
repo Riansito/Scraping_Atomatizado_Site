@@ -16,28 +16,19 @@ Os dados extraídos são armazenados em um **DataFrame** com o auxílio do **Pan
 
 - **Scraping automatizado**: O código navega por várias páginas do site da Estante Virtual, coletando as informações de cada livro de maneira automática.
 - **Armazenamento em DataFrame**: As informações dos livros são organizadas em um DataFrame para facilitar a manipulação e análise dos dados.
-- **Análise de dados**: Posteriormente, é realizada uma análise para identificar padrões nos livros, como autores mais frequentes, editora predominante, preço do livro mais caro e ano de publicação mais comum.
+- **Análise de dados**: Posteriormente, é realizada uma análise para identificar padrões nos livros, como autores mais frequentes, editoras predominantes, preço dos livros e anos de publicação.
 
-### Principais Resultados da Análise
+### Exemplos de Resultados
 
-1. **Autores mais frequentes**:
-   - Antje Damm: 5 livros
-   - Murilo Badaró: 4 livros
-   - Drauzio Varella: 3 livros
-   - Lilia Moritz Schwarcz: 3 livros
+Alguns dos resultados obtidos incluem:
 
-2. **Editora predominante**:
-   - **Claro Enigma** é responsável por 90% dos livros analisados.
-
-3. **Livro mais caro**:
-   - "O Maior de Todos os Mistérios" da editora **Claro Enigma**, custando **R$ 332,82**.
-
-4. **Ano predominante**:
-   - A maioria dos livros foi publicada no ano de **2011**.
+- Identificação de autores com mais publicações.
+- Editoras predominantes entre os livros analisados.
+- Exemplos de livros com preços mais altos.
 
 ### Relatório Final
 
-Ao final do arquivo de análise, um **relatório** é gerado contendo um resumo das informações extraídas do scraping. Esse relatório inclui os principais resultados sobre autores, editoras, preços e anos de publicação dos livros.
+Um **relatório completo** com todos os detalhes da análise é gerado ao final do processo, oferecendo uma visão aprofundada dos padrões encontrados. Confira o relatório final para mais informações sobre os autores, editoras, preços e anos de publicação dos livros analisados.
 
 ## Bibliotecas Utilizadas
 
@@ -50,8 +41,7 @@ Ao final do arquivo de análise, um **relatório** é gerado contendo um resumo 
 
 Sinta-se à vontade para contribuir com este projeto. Sugestões e melhorias são bem-vindas!
 
-## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+
 
 
